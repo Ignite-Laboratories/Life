@@ -5,5 +5,5 @@ import (
 )
 
 func init() {
-	fmt.Println("[life]")
+	fmt.Println("Module - [life]")
 }
